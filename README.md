@@ -1,4 +1,4 @@
-# pizza-hunt (in process)
+# pizza-hunt 
 
 ### Web Link
 https://frozen-beach-91236.herokuapp.com/
